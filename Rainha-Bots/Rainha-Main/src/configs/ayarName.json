@@ -1,0 +1,40 @@
+{
+    "coinKomutKanalİsim": ["bot-commands"],
+  
+    "cekilis": "Çekiliş Katılımcısı 🎉", 
+    "etkinlik": "Etkinlik Duyuru 🎉",
+    
+    "İlişkiler": {
+      "couple": "Couple 💍",
+      "alone": "Alone 💔"
+    },
+    "Renkler": {
+      "kirmizi": "❤️",
+      "turuncu": "🧡",
+      "mor": "💜",
+      "pembe": "💟",
+      "yesil": "💚"
+    },
+    "Oyunlar": {
+      "csgo": "CS:GO",
+      "lol": "1112801203018022975",
+      "valorant": "Valorant",
+      "gta5": "Gta",
+      "pubg": "PUBG",
+      "fortnite": "Fortnite"
+    },
+    "Burçlar": {
+      "koç": "Koç",
+      "boğa": "Boğa",
+      "ikizler": "İkizler",
+      "yengeç": "Yengeç",
+      "aslan": "Aslan",
+      "başak": "Başak",
+      "terazi": "Terazi",
+      "akrep": "Akrep",
+      "yay": "Yay",
+      "oğlak": "Oğlak",
+      "kova": "Kova",
+      "balık": "Balık"
+    }
+  }
